@@ -29,6 +29,6 @@
 
 // the most useable lopps is ~~ for loops
 
-for(var b = 0; b<=10; b++){
-    console.log(b)
-}
+// for(var b = 0; b<=10; b++){
+//     console.log(b)
+// }
